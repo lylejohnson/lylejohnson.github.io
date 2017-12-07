@@ -1,0 +1,21 @@
+---
+id: 118
+title: What I Got for Christmas
+date: 2006-01-06T14:55:00+00:00
+author: Lyle
+layout: post
+guid: http://lylejohnson.name/blog/?p=118
+permalink: /2006/01/06/what-i-got-for-christmas/
+categories:
+  - Palm
+---
+I haven&#8217;t had much time to write about one of my favorite Christmas presents because I&#8217;ve been spending so much time playing with it. When I started trying to implement [GTD](http://www.amazon.com/gp/product/0142000280/103-4277930-2075058?n=283155) in early 2005, as an attempt to get my act together, one of the investments I made was to buy a Palm Zire 31 handheld. Although my previous attempts to actually get in the habit of using a PDA had always failed, things finally clicked for me this time around and it has been a really indispensable tool for me. In October, when Palm announced the new [TX handheld](http://www.palm.com/us/products/handhelds/tx/), I knew that I wanted one. And since I&#8217;ve been a good boy, Santa brought me one for Christmas.
+
+One of the unexpected cool things that you can do with a Palm TX (and other modern PDAs, to be fair) is watch movies. It turns out that the TX&#8217;s 480&#215;320 screen provides a really decent picture quality, and with the use of free software like the excellent [TCPMP](http://tcpmp.corecodec.org/about), you can watch movies in a variety of file formats. I&#8217;m told that the battery life for the TX is pretty good and that watching movies doesn&#8217;t eat up the battery as much as you might expect, so I&#8217;m looking forward to having this with me the next time we fly somewhere.
+
+There are a few other applications that you&#8217;ll want to add to your collection after you pick up TCPMP:
+
+  * nosleep software&#8217;s [FileZ](http://www.palmgear.com/software/showsoftware.cfm?prodID=9992) is a free file manager that is indispensable. 
+      * MetaViewSoft&#8217;s [PalmPDF](http://www.metaviewsoft.de/en/Software/PalmOS/Freeware/PalmPDF/) is a free PDF viewer that is much better than Adobe&#8217;s aging PDF viewer for Palm OS. I do hope that MetaViewSoft is going to focus some attention on the UI for PalmPDF, though, because although the PDF rendering is really great, the UI is really lousy and awkward to use. 
+          * [Plucker](http://www.plkr.org/) is a free offline HTML and eBook reader. If you like Plucker, you might want to check out [Sunrise](http://sourceforge.net/projects/sunrisexp/), which is a good replacement for the Plucker Desktop software. 
+              * Mobile Stream&#8217;s free [&#8220;Home&#8221; button for the TX](http://www.mobile-stream.com/) (look near the bottom of the screen) is nice little hack that replaces the magnifying glass &#8220;Search&#8221; tool in the lower left-hand corner of the TX screen with an infinitely more useful home icon. </ul>My only real disappointment with the TX isn&#8217;t a complaint about the device itself, but rather [VersaMail](http://www.palm.com/us/products/handhelds/tx/versamail.epl), the mail client that comes preinstalled on it. After entering my ISP&#8217;s e-mail account settings and playing with VersaMail for a just a short while, the program crashed and reset the TX. Thinking it was a fluke, I tried using VersaMail again but it continued to crash. A quick [Google search](http://www.google.com/search?q=versamail+crash) revealed that this is a well-known problem, and the [workarounds](http://www.palm.com/cgi-bin/cso_kbURL.cgi?ID=36541) suggested by Palm just didn&#8217;t give me a warm and fuzzy feeling. Fortunately, I do have some options. [SnapperMail](http://www.snappermail.com/wireless/email/), [Agendus Mail](http://www.iambic.com/email/palmos/) and [Eudora Internet Suite](http://www.eudora.com/products/unsupported/internetsuite/) are some of the third-party solutions that I&#8217;ll be evaluating in the coming weeks, and I feel pretty sure that one or more of them will fit the bill. If you have advice about some other mail programs for Palm OS that I should be considering, let me know!</p>

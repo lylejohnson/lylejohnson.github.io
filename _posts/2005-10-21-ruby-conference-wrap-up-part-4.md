@@ -1,0 +1,20 @@
+---
+id: 104
+title: Ruby Conference Wrap-Up (Part 4)
+date: 2005-10-21T16:38:00+00:00
+author: Lyle
+layout: post
+guid: http://lylejohnson.name/wp/?p=104
+permalink: /2005/10/21/ruby-conference-wrap-up-part-4/
+categories:
+  - Ruby
+---
+After lunch, things picked back up with a presentation by Ryan Davis, entitled &#8220;Polishing Ruby: Power Tools and Toys&#8221;. As with Austin&#8217;s talk earlier Saturday morning, I was too busy paying attention to all of the cool stuff Ryan was demonstrating to take very many notes. Ryan has been busy twisting and contorting Ruby into doing things that Matz surely never intended it to do, and the results were amazing. He covered a lot of ground, and I need to go back and review his slides to see what I missed, but the demonstration that really wowed the audience was his use of [ZenOptimize](http://blog.zenspider.com/archives/2005/04/ruby_go_zoom_zo.html) to automatically optimize some code (perhaps a factorial calculator?) and reduce its runtime by about 4x. It&#8217;s interesting to consider the consequences of this work in light of the other projects that are attacking Ruby performance from a different (but complementary) angle (e.g. YARV).
+
+Jim Weirich was up next, with a presentation on &#8220;Creating Domain-Specific Languages (DSLs) in Ruby&#8221;. I took a lot of notes on this content-dense talk, and so I&#8217;m just going to hit the high points for this summary. Jim opened with a great demonstration of several non-obvious DSLs. One was the &#8220;Siteswap&#8221; language, used to describe juggling exercises. (Jim shared that he learned to juggle back in his C programming days, when he had plenty of spare time to kill while waiting for compiles to finish). He also described a DSL for annotating Rubik&#8217;s Cube moves, and pointed out that guitar tablature is yet _another_ kind of DSL. In short, domain-specific languages are targeted to very particular problems and solving them well.
+
+Most of us familiar with the history of [Rake](http://rake.rubyforge.org/) knew that it grew out of Jim&#8217;s frustration with Make. I was interested to hear him admit that until that happened, however, he hadn&#8217;t really considered Ruby suitable for DSLs because its syntax was too complex (as compared to, say, Lisp or Forth), that it lacked Lisp&#8217;s macro capability, and so forth. He then went into some discussion about how to use Ruby for DSLs (which are best reviewed on his slides) and noted that the goal is to create DSLs that are **easy to use**, even if we avoid &#8220;geek speak&#8221; and have to break some programming rules in the process. As Jim said, &#8220;The fun part of Ruby is figuring out how to make it behave as it shouldn&#8217;t.&#8221;
+
+The final talk of the afternoon session was Karlin Fox&#8217;s presentation on &#8220;System Testing in Ruby with [Systir](http://atomicobject.com/systir.page)&#8220;. Karlin talked a little bit about story-driven development and how it reduces the risk of developing the wrong software. He also described a process in which users write tests in plain English, developers work with the users to design a DSL to encode those tests, and then developers develop the applications. The presentation included a nice demonstration of automated testing of a web site. This was all well and good, but I had trouble identifying exactly what role Systir plays in all of this.
+
+That ended the regular sessions for Saturday. I don&#8217;t feel like writing about Matz&#8217;s keynote that he gave Saturday evening. Due to a number of interruptions during his talk, things really got off track and it ended up being very frustrating. The conference organizers recognized this problem as well, and hopefully we&#8217;ll have some ground rules in place next year so that questions are held until the end.

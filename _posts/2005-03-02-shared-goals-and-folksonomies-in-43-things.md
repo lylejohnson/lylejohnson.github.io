@@ -1,0 +1,16 @@
+---
+id: 77
+title: Shared Goals and Folksonomies in 43 Things
+date: 2005-03-02T09:16:00+00:00
+author: Lyle
+layout: post
+guid: http://lylejohnson.name/wp/?p=77
+permalink: /2005/03/02/shared-goals-and-folksonomies-in-43-things/
+categories:
+  - Semantic Web
+---
+One flaw I&#8217;ve noticed with [43 Things](http://43things.com) since I started using it has to do with how people add new goals to their lists. When _I&#8217;m_ going to add a new goal, the first thing I do is search other peoples&#8217; goals looking for similar (if not identical) goals. Unless you&#8217;re doing something really [unusual](http://43things.com/things/view/44526), there&#8217;s a good chance that someone else is doing it too, and that&#8217;s a big part of what makes 43 Things so interesting to me. As discussed in the [FAQ](http://43things.com/about/view/faq), shared goals provide an opportunity to share information, get inspiration and so forth. The problem is that a lot of people apparently _don&#8217;t_ search for previously established goals similar to theirs, and so they just make a new entry that duplicates an existing entry but uses a slightly different title.
+
+Here&#8217;s an example from this morning. I&#8217;ve recently picked up a copy of David Allen&#8217;s [_Getting Things Done_](http://www.amazon.com/exec/obidos/ASIN/0142000280/104-3627336-7840738), in an attempt to get my act together, and I thought I&#8217;d add this as one of my 43 things. When I visit the 43 Things site and search for &#8220;gtd&#8221;, it finds 17 goals (including &#8220;gtd&#8221;, &#8220;try GTD&#8221;, &#8220;Learning GTD&#8221; and &#8220;master GTD&#8221;) that contain that acronym in their title . [One of those](http://43things.com/things/view/10001) seems to have been declared the &#8220;winner&#8221;, with 38 people sharing that goal, but a number of other entries that are basically describing the same goal have only one or two people attached to them. It gets worse, though: if I instead search 43 Things for the words &#8220;getting things done&#8221;, there are a number of other possible matches.
+
+I initially wondered if the tags associated with goals might offer a way out of this mess, but they really don&#8217;t. Yes, I can [search](http://43things.com/tag/gtd) for goals that have been tagged with **gtd**, but for the problem at hand that&#8217;s not really any different from searching for **gtd** in the goals&#8217; subject lines: if you don&#8217;t do that search before you enter your new goal, you can still manage to enter a &#8220;new&#8221; goal that&#8217;s just a dupe of some other goal. The problem is compounded by the fact that, as far as I can tell, 43 Things doesn&#8217;t allow you to edit a goal and associate tags with it unless you&#8217;ve already &#8220;signed up&#8221; for that goal. As [noted](http://www.corante.com/many/archives/2005/02/01/folksonomy_the_soylent_green_of_the_21st_century.php) by Clay Shirkey, the real value of using [folksonomies](http://en.wikipedia.org/wiki/Folksonomy) comes from &#8220;aggregate interaction&#8221;, or to use smaller words, when _other_ people assign tags to _your_ data.
